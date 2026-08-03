@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Zaheer Khan
 
-<!--
-**zaheerkhan03260-rgb/zaheerkhan03260-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Artificial Intelligence and Machine Learning Engineer from Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning and building practical AI and ML projects using Python.
+
+## 🎯 Current Focus
+
+- Machine Learning
+- Python Programming
+- Data Analysis
+- Streamlit Applications
+- Artificial Intelligence
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Git
+- GitHub
+
+## 📂 Featured Projects
+
+### 🎓 Student Performance Predictor
+
+A Machine Learning project that predicts student marks based on study hours and attendance using Linear Regression.
+
+**Technologies Used:**
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/zaheerkhan03260-rgb
+- LinkedIn: (https://www.linkedin.com/in/zaheer-khan-9866a4404?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+⭐ Thank you for visiting my profile!
